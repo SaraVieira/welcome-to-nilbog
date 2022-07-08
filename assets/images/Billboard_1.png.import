@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/walking_back.png-d6b215fce425155fe322a215c98601f4.stex"
+path="res://.import/Billboard_1.png-873afe4a7d3f6dfe907d1b47e42b1576.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Scenes/walking_back.png"
-dest_files=[ "res://.import/walking_back.png-d6b215fce425155fe322a215c98601f4.stex" ]
+source_file="res://assets/images/Billboard_1.png"
+dest_files=[ "res://.import/Billboard_1.png-873afe4a7d3f6dfe907d1b47e42b1576.stex" ]
 
 [params]
 

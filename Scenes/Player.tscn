@@ -145,7 +145,7 @@ script = ExtResource( 1 )
 texture = SubResource( 11 )
 hframes = 7
 vframes = 6
-frame = 2
+frame = 6
 __meta__ = {
 "_editor_description_": "YXNlcHJpdGVfd2l6YXJkX2NvbmZpZwpwbGF5ZXJ8PUFuaW1hdGlvblBsYXllcgpzb3VyY2V8PXJlczovL2Fzc2V0cy9pbWFnZXMvd2Fsa2luZ19iYWNrLmFzZXByaXRlCmxheWVyfD0Kb3BfZXhwfD1GYWxzZQpvX2ZvbGRlcnw9Cm9fbmFtZXw9Cm9ubHlfdmlzaWJsZXw9RmFsc2UKb19leF9wfD0K"
 }
