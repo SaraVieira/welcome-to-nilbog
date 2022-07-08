@@ -1,0 +1,72 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "Create day/night cycles",
+                    "id": "cl5cxiz1w000f3p5xxf7qtopf"
+                },
+                {
+                    "text": "Finish enemy on aesprite\n",
+                    "id": "cl5cxjuaj000g3p5xejb723xb"
+                },
+                {
+                    "text": "Implment enemies",
+                    "id": "cl5cxk6lu000h3p5xzf9s3jso"
+                },
+                {
+                    "text": "Kill player when an enemy touches him",
+                    "id": "cl5cxl8ha000l3p5xpfp0p1oq"
+                },
+                {
+                    "text": "Create enemies dying animation",
+                    "id": "cl5cxkcnx000i3p5xatgif88s"
+                },
+                {
+                    "text": "Implement dying elements animation",
+                    "id": "cl5cxkkr7000j3p5xwqr2zt3c"
+                },
+                {
+                    "text": "Keep track of score & level",
+                    "id": "cl5cxky5q000k3p5xmxpuj586"
+                },
+                {
+                    "text": "Design balloney sandwich",
+                    "id": "cl5cxljl2000m3p5xbug5f8wq"
+                },
+                {
+                    "text": "Create eating sandwich animation",
+                    "id": "cl5cxlwtn000n3p5x1k16bjdz"
+                },
+                {
+                    "text": "Implment all enemies explode on sandwich eat",
+                    "id": "cl5cxm3gc000o3p5xsnxsso7j"
+                }
+            ],
+            "id": "cl5cxi7s2000c3p5x6clc3b0a",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [
+                {
+                    "text": "Create first draft of tilable background\n",
+                    "id": "cl5cxi7s2000b3p5xttdwzt0c"
+                }
+            ],
+            "id": "cl5cxi7s2000d3p5x9jsms2nv",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [],
+            "id": "cl5cxi7s2000e3p5xo5j1v4cr",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1657313426062
+}
