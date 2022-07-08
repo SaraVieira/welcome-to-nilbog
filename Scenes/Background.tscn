@@ -905,4 +905,5 @@ __meta__ = {
 }
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ParallaxLayer/Sprite"]
+autoplay = "default"
 anims/default = SubResource( 3 )
