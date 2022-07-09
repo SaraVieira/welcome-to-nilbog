@@ -5,10 +5,6 @@
             "title": "To-Do",
             "tasks": [
                 {
-                    "text": "Create day/night cycles",
-                    "id": "cl5cxiz1w000f3p5xxf7qtopf"
-                },
-                {
                     "text": "Finish enemy on aesprite\n",
                     "id": "cl5cxjuaj000g3p5xejb723xb"
                 },
@@ -52,6 +48,10 @@
             "title": "Doing",
             "tasks": [
                 {
+                    "text": "Replace hit sound with sfxjs\n",
+                    "id": "cl5dwj9gq000p3p5xqx4hd72z"
+                },
+                {
                     "text": "Create first draft of tilable background\n",
                     "id": "cl5cxi7s2000b3p5xttdwzt0c"
                 }
@@ -61,12 +61,17 @@
         },
         {
             "title": "Done",
-            "tasks": [],
+            "tasks": [
+                {
+                    "text": "Create day/night cycles",
+                    "id": "cl5cxiz1w000f3p5xxf7qtopf"
+                }
+            ],
             "id": "cl5cxi7s2000e3p5xo5j1v4cr",
             "color": "#00d084"
         }
     ],
     "autosave": true,
     "saveToFile": true,
-    "timestamp": 1657313426062
+    "timestamp": 1657374001874
 }
